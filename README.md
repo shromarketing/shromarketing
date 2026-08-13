@@ -4,7 +4,11 @@
 
 ### AI Product Builder · Marketing Strategist · Educator
 
-I turn AI from a collection of impressive demos into practical products, workflows and measurable business results.
+I build practical AI products and agentic workflows for businesses — from research and prototype to team adoption.
+
+Currently building **Codex Pulse**, a native macOS control center for Codex and Claude.
+
+**Пишу по-русски о практическом внедрении ИИ, продуктах и агентных системах.**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@shromarketing-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shromarketing)
 
@@ -12,12 +16,13 @@ I turn AI from a collection of impressive demos into practical products, workflo
 
 ---
 
-## What I build
+## What I do
 
-- **AI products** — focused tools that solve real operational problems
-- **Agentic workflows** — Codex, Claude, MCP and multi-agent systems for modern teams
-- **AI transformation** — research, strategy, prototypes and implementation for businesses
-- **Education** — practical programs that help teams use AI confidently and responsibly
+- **AI products and MVPs** — focused tools built around real operational problems
+- **Agentic workflows** — Codex, Claude, MCP and multi-agent systems for everyday work
+- **Business implementation** — research, strategy, prototypes and workflow integration
+- **Team adoption** — practical training that helps people use AI confidently and responsibly
+- **Open-source tools** — useful infrastructure for people building with AI
 
 ## Building now
 
@@ -35,18 +40,27 @@ The public beta and source code are being prepared for release.
 
 ## How I work
 
-**Research → prototype → test with real workflows → measure → improve**
+**Research → prototype → test in real workflows → measure → improve**
 
 I care about clear UX, privacy, honest product claims and tools that remain useful after the demo.
 
-## Follow the journey
+## Work with me
 
-I share practical AI tools, product experiments, workflows and behind-the-scenes build notes in Telegram.
+I am open to:
+
+- AI product and MVP collaborations
+- workflow audits and implementation pilots
+- team training and practical AI programs
+- conversations with founders, operators and builders
+
+## Follow the build
+
+I share practical AI tools, product experiments, implementation cases and behind-the-scenes build notes in Russian.
 
 <div align="center">
 
-### [Join @shromarketing on Telegram →](https://t.me/shromarketing)
+### [Follow @shromarketing on Telegram →](https://t.me/shromarketing)
 
-*Open to product collaborations, AI pilots and conversations with builders.*
+*Practical AI, products and agentic workflows — without the hype.*
 
 </div>
